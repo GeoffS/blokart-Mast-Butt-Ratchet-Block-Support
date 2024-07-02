@@ -14,7 +14,11 @@ be holding up pretty well.
 
 ### Printing Parameters
 I have always printed these standing up so the "clip" section can be 
-printed with solid perimeters. This gives it the strength and resilience 
-to spread apart slightly without breaking when the clipped to the mast.
+printed with the perimeters running continuously around the clip. 
+This avoids the lower strength of the inter-layer bond when they
+are spread apart slightly without breaking when the clipped to the mast.
+
+I've mostly printed these with solid perimeters (5) in the clip area,
+but I've also experimented with using two perimeters and gyroid infill.
 
 The "hook" section can have any infill you like. It's not a strength-critical area.
